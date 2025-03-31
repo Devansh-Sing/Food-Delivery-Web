@@ -67,10 +67,10 @@ A comprehensive full-stack Food Delivery App developed with **Spring Boot (Java)
 - `POST /api/auth/login` → Login user
 - `POST /api/orders` → Place an order
 
-## Contributing
+# Contributing
 We welcome contributions from the community!
 
-# Guidelines
+## Guidelines
 
 - Follow existing code style and patterns
 - Keep PRs focused (avoid bundling unrelated changes)
